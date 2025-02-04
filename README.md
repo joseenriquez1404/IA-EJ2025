@@ -5,6 +5,7 @@ Repositorio donde se encontraran los códigos de la materia de Inteligencia Arti
 - [Python-101-For-Data-Science](./Certificados/Python%20101%20for%20Data%20Science.pdf)
 - [01-Intro-To-Programming](./Certificados/01-Intro_to_Programming.pdf)
 - [02-Python](./Certificados/02-Python.pdf)
+- [03-Intro-to-machine-learning](./Certificados/03-Intro_to_Machine_Learning.pdf)
 
 
 # Enero y Febrero
