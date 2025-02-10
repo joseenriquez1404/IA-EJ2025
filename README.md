@@ -6,6 +6,7 @@ Repositorio donde se encontraran los códigos de la materia de Inteligencia Arti
 - [01-Intro-To-Programming](./Certificados/01-Intro_to_Programming.pdf)
 - [02-Python](./Certificados/02-Python.pdf)
 - [03-Intro-to-machine-learning](./Certificados/03-Intro_to_Machine_Learning.pdf)
+- [04-Pandas](./Certificados/04-Pandas.pdf)
 
 
 # Enero y Febrero
