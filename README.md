@@ -13,6 +13,7 @@ Repositorio donde se encontraran los códigos de la materia de Inteligencia Arti
 Enlaces a las actividades de **Enero y Febrero**:
 
 - [Actividad-6-Determinante-de-matrices](./Actividades/Actividad6_Determinantes_de_Matrices.pdf)
+- [Actividad-7-Laboratorio-de-repaso-de-probabilidad-y-estadistica](./Actividades/Act%207%20Laboratorio%20de%20Repaso%20de%20Probabilidad%20y%20Estadística.pdf)
 
 
 
