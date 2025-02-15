@@ -12,6 +12,8 @@ Repositorio donde se encontraran los códigos de la materia de Inteligencia Arti
 # Enero y Febrero
 Enlaces a las actividades de **Enero y Febrero**:
 
+- [Actividad-6-Determinante-de-matrices](./Actividades/Actividad6_Determinantes_de_Matrices.pdf)
+
 
 
 ---
