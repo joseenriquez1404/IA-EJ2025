@@ -7,6 +7,7 @@ Repositorio donde se encontraran los códigos de la materia de Inteligencia Arti
 - [02-Python](./Certificados/02-Python.pdf)
 - [03-Intro-to-machine-learning](./Certificados/03-Intro_to_Machine_Learning.pdf)
 - [04-Pandas](./Certificados/04-Pandas.pdf)
+- [05-Intermediate-Machine-Learning](./Certificados/05-Intermediate_Machine_Learning.pdf)
 
 
 # Enero y Febrero
@@ -14,6 +15,7 @@ Enlaces a las actividades de **Enero y Febrero**:
 
 - [Actividad-6-Determinante-de-matrices](./Actividades/Actividad6_Determinantes_de_Matrices.pdf)
 - [Actividad-7-Laboratorio-de-repaso-de-probabilidad-y-estadistica](./Actividades/Act%207%20Laboratorio%20de%20Repaso%20de%20Probabilidad%20y%20Estadística.pdf)
+- [Actividad-8-Laboratorio-de-álgebra-lineal](./Actividades/Act_8__Laboratorio_de_Álgebra_Lineal.pdf)
 
 
 
