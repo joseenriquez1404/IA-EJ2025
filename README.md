@@ -9,6 +9,7 @@ Repositorio donde se encontraran los códigos de la materia de Inteligencia Arti
 - [04-Pandas](./Certificados/04-Pandas.pdf)
 - [05-Intermediate-Machine-Learning](./Certificados/05-Intermediate_Machine_Learning.pdf)
 - [06-Data-Visualization](./Certificados/06-Data_Visualization.pdf)
+- [07-Feature-Engineering](./Certificados/07-Feature_Engineering.pdf)
 
 
 # Enero y Febrero
