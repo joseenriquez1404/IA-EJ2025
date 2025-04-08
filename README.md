@@ -14,6 +14,7 @@ Repositorio donde se encontraran los códigos de la materia de Inteligencia Arti
 - [09-Advanced-SQL](./Certificados/09-Advanced_SQL.pdf)
 - [10-Intro-To-Deep-Learning](./Certificados/10-Intro_to_Deep_Learning.pdf)
 - [11-Computer-Vision](./Certificados/11-Computer_Vision.pdf)
+- [12-Time-Series](./Certificados/12-Time_Series.pdf)
 
 
 # Enero y Febrero
