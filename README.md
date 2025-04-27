@@ -18,6 +18,7 @@ Repositorio donde se encontraran los códigos de la materia de Inteligencia Arti
 - [13-Data-Cleaning](./Certificados/13-Data_Cleaning.pdf)
 - [14-Intro-to-AI-Ethics](./Certificados/14-Intro_to_AI_Ethics.pdf)
 - [15-Geospatial-Analysis](./Certificados/15-Geospatial_Analysis.pdf)
+- [16-Machine_Learning_Explainability](./Certificados/16-Machine_Learning_Explainability.pdf)
 
 
 # Enero y Febrero
